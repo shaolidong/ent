@@ -49,7 +49,7 @@ and the roadmap for its v1 release is described [here](https://github.com/ent/en
 Read more about the motivation of the project [here](https://entgo.io/blog/2019/10/03/introducing-ent).
 
 ## License
-ent is licensed under Apache 2.0 as found in the [LICENSE file](LICENSE).
+ent is licensed under Apache 2.0 as found in the [LICENSE file](LICENSE)..
 
 
 [entgo instal]: https://entgo.io/docs/code-gen/#version-compatibility-between-entc-and-ent
